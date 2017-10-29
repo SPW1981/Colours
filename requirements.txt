@@ -1,0 +1,3 @@
+ipythonblocks
+ipywidgets
+numpy
